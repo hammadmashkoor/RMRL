@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: RMRL
-Plugin URI: https://hammadmashkoor.github.io/RMRL
+Plugin URI: https://github.com/hammadmashkoor/RMRL
 Description: This is a Read More Read Less Button Plugin for Wordpress, Jquery Code used from freakyjolly.com
 Version: 1.0
 Author: Hammad Mashkoor
