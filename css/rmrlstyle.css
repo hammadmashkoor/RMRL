@@ -1,0 +1,18 @@
+.addReadMore.showmorecontent .readMore {
+    display: none;
+}
+.addReadMore.showlesscontent .SecSec, .addReadMore.showlesscontent .readLess {
+    display: none;
+}
+.addReadMoreInfra.showmorecontent .readMore {
+    display: none;
+}
+.addReadMoreInfra.showlesscontent .SecSec, .addReadMoreInfra.showlesscontent .readLess {
+    display: none;
+}
+.addReadMoreCareer.showmorecontent .readMore {
+    display: none;
+}
+.addReadMoreCareer.showlesscontent .SecSec, .addReadMoreCareer.showlesscontent .readLess {
+    display: none;
+}
